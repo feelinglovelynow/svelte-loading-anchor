@@ -1,6 +1,6 @@
 {
   "name": "@feelinglovelynow/svelte-loading-anchor",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "SvelteKit component that shows a loading icon when clicked and stops loading after the page navigates",
   "author": "https://github.com/feelinglovelynow?tab=repositories",
   "license": "MIT",
